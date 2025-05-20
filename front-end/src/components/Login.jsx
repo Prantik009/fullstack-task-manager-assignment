@@ -89,7 +89,7 @@ const Login = ({onSubmit, onSwitchMode}) => {
         </div>
         <h2 className=" text-2xl font-bold text-gray-800">Welcome Back</h2>
         <p className=" text-gray-500 text-sm mt-1">
-          Sign in to continue to TaskFlow
+          Sign in to continue to WorkNest
         </p>
       </div>
 
