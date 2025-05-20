@@ -6,7 +6,7 @@ import Login from "./components/Login";
 import SignUp from "./components/SignUp";
 import Dashboard from "./pages/Dashboard";
 import PendingPages from "./pages/PendingPages";
-import CompletePage from "./pages/completePage";
+import CompletePage from "./pages/CompletePage";
 import Profile from "./components/Profile";
 
 const App = () => {
