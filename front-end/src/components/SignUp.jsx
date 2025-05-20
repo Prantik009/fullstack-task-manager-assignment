@@ -53,7 +53,7 @@ const SignUp = ({ onSwitchMode }) => {
         </div>
         <h2 className="text-2xl font-bold text-gray-800">Create Account</h2>
         <p className="text-gray-500 text-sm mt-1">
-          Join TaskFlow to manage your tasks
+          Join WorkNest to manage your tasks
         </p>
       </div>
 
