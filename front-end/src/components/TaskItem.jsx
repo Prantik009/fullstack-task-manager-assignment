@@ -11,7 +11,7 @@ import { isToday, format } from "date-fns";
 import TaskModal from "./TaskModal";
 
 
-const API_BASE = "https://task-manager-backend-1ddi.onrender.com";
+const API_BASE = "https://task-manager-backend-1ddi.onrender.com/api/tasks";
 
 const TaskItem = ({
   task,
