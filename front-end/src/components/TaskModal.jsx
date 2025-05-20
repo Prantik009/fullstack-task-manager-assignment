@@ -6,7 +6,7 @@ import {
 } from "../assets/dummy";
 import { AlignLeft, Calendar, CheckCircle, Flag, PlusCircle, Save, X } from "lucide-react";
 
-const API_BASE = "http://localhost:4000/api/tasks";
+const API_BASE = "https://task-manager-backend-1ddi.onrender.com/api/tasks";
 
 const TaskModal = ({ isOpen, onClose, taskToEdit, onSave, onLogout }) => {
   const [taskData, setTaskData] = useState(DEFAULT_TASK);
