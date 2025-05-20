@@ -9,7 +9,7 @@ import {
 } from "../assets/dummy";
 import axios from "axios";
 
-const API_URL = "http://localhost:4000";
+const API_URL = "https://task-manager-backend-1ddi.onrender.com";
 const INITIAL_FORM = { name: "", email: "", password: "" };
 const SignUp = ({ onSwitchMode }) => {
   const [formData, setFormData] = useState(INITIAL_FORM);
