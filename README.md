@@ -72,7 +72,8 @@ Date-fns – Date formatting
 
 --------------------------------------
 
-✅ Features Implemented
+✅ Features Implemented:
+
 🔐 User Registration & Login
 
 🧠 JWT-based authentication
