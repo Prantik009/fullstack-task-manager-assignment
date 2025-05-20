@@ -95,7 +95,8 @@ High Priority
 
 --------------------------------------
 
-🌟 Bonus Features
+🌟 Bonus Features:
+
 🎨 Clean UI using Tailwind CSS
 
 🔔 Real-time toast notifications
