@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 
-const api_url = "https://task-manager-backend-1ddi.onrender.com";
+const api_url = "https://fullstack-task-manager-assignment-backend.onrender.com";
 
 const Profile = ({ setCurrentUser, onLogout }) => {
   const [profile, setProfile] = useState({ name: "", email: "" });
