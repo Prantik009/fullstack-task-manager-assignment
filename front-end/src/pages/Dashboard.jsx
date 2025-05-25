@@ -24,7 +24,7 @@ import { useOutletContext } from "react-router-dom";
 import axios from 'axios'
 import TaskModal from "../components/TaskModal";
 import TaskItem from "../components/TaskItem"
-const API_BASE = "https://task-manager-backend-1ddi.onrender.com";
+const API_BASE = "https://fullstack-task-manager-assignment-backend.onrender.com";
 
 const Dashboard = () => {
   const { tasks, refreshTasks } = useOutletContext();
