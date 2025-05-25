@@ -15,7 +15,7 @@ const Login = ({onSubmit, onSwitchMode}) => {
   const [formData, setFormData] = useState(INITIAL_FORM);
 
   const navigate = useNavigate();
-  const url = "https://task-manager-backend-1ddi.onrender.com";
+  const url = "https://fullstack-task-manager-assignment-backend.onrender.com";
 
   useEffect(()=>{
     const token = localStorage.getItem("token")
